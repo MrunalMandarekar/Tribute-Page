@@ -1,0 +1,55 @@
+#main {
+  background-color: #E7E6E1;
+  padding: 15px;
+}
+
+#title {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h5 {
+  font-family: 'Raleway', sans-serif;
+  color: #6E7C7C;
+}
+
+#img-div{
+  background-color: white;
+}
+
+#image {
+  text-align: center;
+}
+
+#img-caption {
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  color: #707070;
+}
+
+#tribute-info {
+  padding: 50px;
+  font-family: 'Istok Web', sans-serif;
+  max-width: 545px;
+  margin: 0 auto 60px auto;
+  text-align: left;
+  color: #555555;
+  line-height: 21px;
+}
+
+#quote {
+  padding: 30px;
+  font-family: 'Explora', cursive;
+  font-style: italic;
+}
